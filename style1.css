@@ -1,0 +1,100 @@
+header img{
+    height: 130px;
+    width: 170px;
+    padding-left: 20px;
+}
+
+header h1 {
+    font-family: Bradley Hand, cursive;
+}
+
+.history h1 {
+     font-family: Bradley Hand, cursive;
+}
+
+.logo {
+    display: flex;
+}
+
+.logo h1 {
+    padding-left: 30px;
+}
+
+.logo p {
+    padding-top:  30px;
+    padding-left: 10px;
+    font-family: Bradley Hand, cursive;
+    
+}
+
+.navig {
+    margin-top: 20px;
+    text-align: center;
+    background-color: greenyellow;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.navig a{
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+}
+
+
+.series {
+    display: flex;
+    text-align: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+
+.device {
+    background-color: black;
+    width: 25%;
+    border: 10px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    color: chartreuse;
+    
+}
+
+.device img {
+    width: 100%;
+}
+
+.device h1 {
+    font-family: Bradley Hand, cursive;
+}
+
+
+.device ul {
+    color: white;
+
+}
+
+
+main h1 {
+     font-family: Bradley Hand, cursive;
+}
+
+.button {
+    width: 50%;
+    height: 30px;
+    background-color: chartreuse;
+    border-radius: 10px;
+    margin-left: 55px;
+    padding-top: 5px;
+    color: black;
+}
+
+
+
+footer h1 {
+     font-family: Bradley Hand, cursive;
+}
+.end {
+    background-color: greenyellow;
+    text-align: center;
+}
+

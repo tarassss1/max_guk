@@ -97,4 +97,9 @@ footer h1 {
     background-color: greenyellow;
     text-align: center;
 }
-
+.series h1 {
+     text-align: center;
+}
+.series {
+    padding-left: 150px;
+}

@@ -1,0 +1,267 @@
+<html>
+<head>
+    <title>Nvidia Shop</title>
+    <link href="style1.css" rel="stylesheet" />
+</head>
+    <body>
+        <header>
+            <section>
+            <div class="logo">
+                <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1200px-Nvidia_logo.svg.png">
+                <h1>Nvidia</h1>
+                <p><b>Just mean to be played</b></p> 
+            </div>
+
+            <div class="navig">
+                <b><a href ="#begin">Короткі відомості</a></b>
+                <b><a href ="#begin">Історія</a></b>
+                <b><a href ="#begin">Серія GTX</a></b>
+                <b><a href ="#begin">Серія RTX</a></b>
+                <b><a href ="#begin">Придбати</a></b>
+            </div>    
+            </section>
+        </header> 
+
+        <main>
+            <section class="history">
+                <h1>Короткі відомості</h1>
+               <b> <p>Nvidia Corporation — американський виробник графічних процесорів, відеоадаптерів під торговими марками Riva TNT та GeForce, мультимедійних та комунікаційних пристроїв для ПК та ігрових консолей, на кшталт Sony PlayStation 3 та Xbox.
+
+Штаб-квартира корпорації знаходиться у місті Санта-Клара, що в штаті Каліфорнія, США.
+
+Основний конкурент — компанія AMD.</p></b>
+                <h1>Історія</h1>
+                <b><ul>
+                    <li>1993 рік — Джен-Хсун Хуанг, Кьортіс Прем та Кріс Малаховскі заснували компанію</li>
+                    <li>1995 рік — випуск NV1 — першого продукту компанії</li>
+                    <li>1998 рік — компанія переїжджає до Санта-Клари</li>
+                    <li>1999 рік:
+показано NVIDIA Quadro — перший у світі GPU для робочих станцій
+у січні компанія провела IPO на біржі Nasdaq</li>
+                    <li>2001 рік — акції компанії були поміщені в базу розрахунку біржового індексу S&P 500.</li>
+                    <li>2002 рік:
+випуск GeForce 4
+за увесь час існування компанія продала більш ніж 100 мільйонів процесорів</li>
+                    <li>2003 рік — придбала Media Q — чільного постачальника графічних та мультимедійних технологій для бездротових пристроїв</li>
+                    <li>2004 рік — поставка 300-мільйонного процесора</li>
+                    <li>2006 рік — випуск NVIDIA GeForce 8800 — першої у світі відеокарти з підтримкою DirectX 10</li>
+                    <li>2007 рік — представлена технологія CUDA для відеокарт GeForce 8 Series, Nvidia Quadro і Tesla</li>
+                    <li>2008 рік — у лютому була придбана компанія Ageia Technologies — розробник фізичного рушія PhysX</li>
+                    <li>2018 рік — дослідники відділу штучного інтелекту компанії NVidia реалізували таку можливість, при якій робот може навчитися виконанню будь-якої роботи, просто спостерігаючи за людиною, що виконує цю ж саму роботу. Вони створили систему, яка після нетривалих доробок і випробувань вже може бути використана для управління універсальними роботами наступних поколінь</li>
+                    <li>2020 рік: Nvidia оголосила про купівлю ARM Holdings.</li>
+                </ul></b>
+               
+            </section> 
+
+                <h1>Серія GTX</h1>
+            <section class="series">
+                <div class="device">
+                    <h1>GTX 770</h1>
+                    <img src="https://asset.msi.com/resize/image/global/product/five_pictures1_2897_20140408171349.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png">
+                    <ul>
+                        <li>Має ядро GK104</li>
+                        <li>Має об'єм пам'яті 2048/4096</li>
+                        <li>Має шейдерних блоків 1536</li>
+                        <li>Ненайкраща продуктивність</li>
+                        <li>Підходить бюджетним варіантом</li>
+                    </ul>
+                    <div class="button">
+                        <b>Ціна:1599грн</b>
+                    </div>
+                </div>   
+
+                <div class="device">
+                    <h1>GTX 780</h1>
+                    <img src="https://cdn.wccftech.com/wp-content/uploads/2015/05/NVIDIA-GeForce-GTX-980-Ti_Box-Custom-1030x807.png">
+                    <ul>
+                        <li>Має ядро GK110</li>
+                        <li>Має об'єм пам'яті 3072</li>
+                        <li>Має шейдерних блоків 2880</li>
+                        <li>Ненайкраща продуктивність</li>
+                        <li>Підходить бюджетним варіантом</li>
+                    </ul>
+                    <div class="button">
+                       <b>Ціна:2499грн</b>
+                    </div>
+                </div>   
+
+                 <div class="device">
+                    <h1>GTX 1060</h1>
+                    <img src="https://static.gigabyte.com/StaticFile/Image/Global/828bf6607405e144902fe50c16da9309/Product/15336/png/500">
+                    <ul>
+                        <li>Має ядро GP106</li>
+                        <li>Має об'єм пам'яті 6144</li>
+                        <li>Має шейдерних блоків 1280</li>
+                        <li>Середня продуктивність</li>
+                        <li>Підходить бюджетним варіантом</li>
+                    </ul>          
+                    <div class="button">
+                       <b>Ціна:4599грн</b>
+                    </div>
+                </div>  
+
+                   <div class="device">
+                    <h1>GTX 1080</h1>
+                    <img src="https://static.gigabyte.com/StaticFile/Image/Global/136e4b81116db24897cdbc5483b24743/Product/18113/Png">
+                    <ul>
+                        <li>Має ядро GP102</li>
+                        <li>Має об'єм пам'яті 11264</li>
+                        <li>Має шейдерних блоків 3584</li>
+                        <li>Середня продуктивність продуктивність</li>
+                        <li>Підходить бюджетним варіантом</li>
+                        
+                    </ul>               
+                    <div class="button">
+                       <b>Ціна:5499грн</b>
+                    </div>
+                </div>   
+
+                   <div class="device">
+                    <h1>GTX 1650</h1>
+                    <img src="https://www.asus.com/media/global/products/tjiys4ve3evy7mbb/P_setting_xxx_0_90_end_692.png">
+                    <ul>
+                        <li>Має ядро TU116</li>
+                        <li>Має об'єм пам'яті 6144</li>
+                        <li>Має шейдерних блоків 2098</li>
+                        <li>Висока продуктивність</li>
+                        <li>Найпопулярніша у світі!</li>
+                    </ul>                  
+                    <div class="button">
+                       <b>Ціна:6999грн</b>
+                    </div>
+                </div>   
+
+                   <div class="device">
+                    <h1>GTX 1660 SUPER</h1>
+                    <img src="https://asset.msi.com/resize/image/global/product/product_9_20191024090506_5db0f8c2ee3a7.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png">
+                    <ul>
+                        <li>Має ядро TU116</li>
+                        <li>Має об'єм пам'яті 6144</li>
+                        <li>Має шейдерних блоків 1908</li>
+                        <li>Висока продуктивність</li>
+                        <li>Підходить для геймерів</li>
+                    </ul>
+                    <div class="button">
+                       <b>Ціна:7499грн</b>
+                    </div>
+                </div>   
+
+
+ 
+
+            </section>
+
+             <h1>Серія RTX</h1>
+            <section class="series">
+                <div class="device">
+                    <h1>RTX 2060</h1>
+                    <img src="https://www.helptechco.com/files/RTX-2060-SUPER-ARMOR-OC_1.png">
+                    <ul>
+                        <li>Має ядро TU106</li>
+                        <li>Має об'єм пам'яті 6144</li>
+                        <li>Має шейдерних блоків 1920</li>
+                        <li>Висока продуктивність</li>
+                        <li>Має технологію DSS</li>
+                    </ul>    
+                    <div class="button">
+                        <b>Ціна:8699грн</b>
+                    </div>
+                </div>   
+
+                <div class="device">
+                    <h1>RTX 2080 SUPER</h1>
+                    <img src="https://asset.msi.com/resize/image/global/product/product_3_20190722133238_5d354a7644999.png62405b38c58fe0f07fcef2367d8a9ba1/600.png">
+                    <ul>
+                        <li>Має ядро TU104</li>
+                        <li>Має об'єм пам'яті 8192</li>
+                        <li>Має шейдерних блоків 3072</li>
+                        <li>ТОП продуктивність</li>
+                        <li>Підходить для геймірів</li>
+                    </ul>
+                    <div class="button">
+                       <b>Ціна:9999грн</b>
+                    </div>
+                </div>   
+
+                 <div class="device">
+                    <h1>RTX 3060</h1>
+                    <img src="https://asset.msi.com/resize/image/global/product/product_1610444725b6aa81c4e74a8ea9fee28fdd225b58cc.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png">
+                    <ul>
+                        <li>Має ядро GA104</li>
+                        <li>Має об'єм пам'яті 8192</li>
+                        <li>Має шейдерних блоків 4864</li>
+                        <li>ТОП продуктивність</li>
+                        <li>Підходить для геймірів</li>
+                    </ul>
+                    <div class="button">
+                       <b>Ціна:11499грн</b>
+                    </div>
+                </div>   
+
+                <div class="device">
+                    <h1>RTX 3090</h1>
+                    <img src="https://img.telemart.ua/414424-566565/msi-geforce-rtx-3090-ti-gaming-x-trio-24576mb-rtx-3090-ti-gaming-x-trio-24g.png">
+                    <ul>
+                        <li>Має ядро GA102</li>
+                        <li>Має об'єм пам'яті 24576</li>
+                        <li>Має шейдерних блоків 10752</li>
+                        <li>ТОП продуктивність</li>
+                        <li>Підходить для геймірів</li>
+                    </ul>
+                    <div class="button">
+                       <b>Ціна:13499грн</b>
+                    </div>
+                </div>   
+
+                <div class="device">
+                    <h1>RTX 4060</h1>
+                    <img src="https://static.gigabyte.com/StaticFile/Image/Global/78417f15c72dd299e84311bfeb95e98a/Product/35353">
+                    <ul>
+                        <li>Має ядро AD106</li>
+                        <li>Має об'єм пам'яті 16 GB</li>
+                        <li>Має шейдерних блоків 4352</li>
+                        <li>ТОП продуктивність</li>
+                        <li>Підходить для геймірів</li>
+                    </ul>
+                    <div class="button">
+                       <b>Ціна:18999грн</b>
+                    </div>
+                </div>  
+
+                <div class="device">
+                    <h1>RTX 4090</h1>
+                    <img src="https://asset.msi.com/resize/image/global/product/product_16684922651c6e70fc42901abd49b48e6238228fba.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png">
+                    <ul>
+                        <li>Має ядро AD102</li>
+                        <li>Має об'єм пам'яті 24 GB</li>
+                        <li>Має шейдерних блоків 16384</li>
+                        <li>Найкраща у світі продуктивність</li>
+                        <li>Підходить для геймірів</li>
+                    </ul>
+                    <div class="button">
+                       <b>Ціна:24999грн</b>
+                    </div>
+                </div>    
+
+            </section>
+
+            <div class="gallery">
+                <img src=""/>
+                <img src=""/>
+                <img src=""/>
+                <img src=""/>
+                <img src=""/>
+            </div>
+            
+        </main>
+        <footer>
+            <div class="end">
+                <h1>Ви можете знайти нас по всьому світу!</h1>
+            </div>
+            <h1>Наш офіс також є в Коломиї на вулиці Відеокартна2024</h1>
+            <h1>Більше інформації на сайті:https://www.nvidia.com/ru-ru/</h1>
+            <h1>Зроблено неофіційним профі розробником :)</h1>
+        </footer>        
+    </body>   
+    
+</html>
